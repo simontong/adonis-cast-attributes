@@ -1,0 +1,25 @@
+{
+  "name": "adonis-cast-attributes",
+  "version": "1.0.0",
+  "description": "Cast attributes in AdonisJS",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simontong/adonis-cast-attributes.git"
+  },
+  "keywords": [
+    "adonis",
+    "casting",
+    "attributes",
+    "adonis-cast-attributes"
+  ],
+  "author": "Simon Tong <simon@projectplanet.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simontong/adonis-cast-attributes/issues"
+  },
+  "homepage": "https://github.com/simontong/adonis-cast-attributes#readme",
+}
