@@ -13,7 +13,7 @@ const providers = [
 Add trait and casts to the model:
 ```js
 class User {
-  static super () {
+  static boot () {
     super.boot()
     
       // Add the trait and casts to a model
